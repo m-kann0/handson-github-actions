@@ -1,0 +1,2 @@
+- GitHub-Hosted Runnersの詳細
+    - https://github.com/actions/runner-images
